@@ -19,4 +19,5 @@ Subtopic: General usage and reporting
 ## Gabriel Solomon Holland: https://github.com/GabrielSolomonHolland
 
 Subtopic: Enhanced Indexing, comparison with OSForensics and Prodiscover basic
+
 Disc image used: https://drive.google.com/file/d/1Fceuz4bA8Y7iZKdCxnsJnZEZ_WQbxBRO/view?usp=sharing
