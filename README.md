@@ -8,11 +8,11 @@ Aka: Edilon Welcroy
 
 Subtopic: Encryption/Decryption support
 
-## Jacob Kapfer: 
+## Jacob Kapfer: https://github.com/jkapfer
 
 Subtopic: Volume Shadow Copy
 
-## Matthew McArthur:
+## Matthew McArthur: https://github.com/Mjmcarthur0917
 
 Subtopic: General usage and reporting
 
