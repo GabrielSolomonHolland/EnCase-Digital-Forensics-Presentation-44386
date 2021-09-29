@@ -4,6 +4,8 @@ This is the github repository for the class presentation regarding EnCase digita
 
 ## Daniel Crowley: https://github.com/TheMusicMan28
 
+Aka: Edilon Welcroy
+
 Subtopic: Encryption/Decryption support
 
 ## Jacob Kapfer: 
