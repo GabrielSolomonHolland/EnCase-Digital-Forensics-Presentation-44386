@@ -4,6 +4,8 @@ This is the github repository for the class presentation regarding EnCase digita
 
 ## Daniel Crowley: https://github.com/TheMusicMan28
 
+Aka: Edilon Welcroy
+
 Subtopic: Encryption/Decryption support
 
 ## Jacob Kapfer: https://github.com/jkapfer
@@ -13,6 +15,8 @@ Subtopic: Volume Shadow Copy
 ## Matthew McArthur: https://github.com/Mjmcarthur0917
 
 Subtopic: General usage and reporting
+
+Disc image used: Chapter 5 "InCh05.img"
 
 ## Gabriel Solomon Holland: https://github.com/GabrielSolomonHolland
 
