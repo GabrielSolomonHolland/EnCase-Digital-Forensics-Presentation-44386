@@ -17,9 +17,9 @@
 ### EnCase
 
 * Indexing Time: `11 hours, 3 minutes`
-* "Project 2400" results: 
-* "Craigslist" results:
-* "Kitty" results:
+* "Project 2400" results: `31 hits, 12 items`
+* "Craigslist" results: `1`
+* "Kitty" results: `132 hits, 21 items`
 
 
 
