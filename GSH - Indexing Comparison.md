@@ -13,3 +13,10 @@
 * "Project 2400" results: `7`
 * "Craigslist" results: `6`
 * "Kitty" results: `10`
+
+### EnCase
+
+* Indexing Time: `11 hours, 3 minutes`
+* "Project 2400" results: 
+* "Craigslist" results:
+* "Kitty" results:
