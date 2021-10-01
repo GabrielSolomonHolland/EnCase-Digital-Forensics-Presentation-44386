@@ -8,7 +8,7 @@ Aka: Edilan Welcroy
 
 Subtopic: Encryption/Decryption support
 
-USB Drive used: https://drive.google.com/file/d/1D_sCnpcyK8Z-pMTIbalTfb42TY5GDlp6/view?usp=sharing
+USB Drive Image used: https://drive.google.com/file/d/1D_sCnpcyK8Z-pMTIbalTfb42TY5GDlp6/view?usp=sharing
 
 ## Jacob Kapfer: https://github.com/jkapfer
 
