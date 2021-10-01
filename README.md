@@ -4,9 +4,11 @@ This is the github repository for the class presentation regarding EnCase digita
 
 ## Daniel Crowley: https://github.com/TheMusicMan28
 
-Aka: Edilon Welcroy
+Aka: Edilan Welcroy
 
 Subtopic: Encryption/Decryption support
+
+USB Drive used: https://drive.google.com/file/d/1D_sCnpcyK8Z-pMTIbalTfb42TY5GDlp6/view?usp=sharing
 
 ## Jacob Kapfer: https://github.com/jkapfer
 
