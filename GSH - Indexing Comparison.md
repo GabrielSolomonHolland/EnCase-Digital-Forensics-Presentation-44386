@@ -10,9 +10,9 @@
 ### Prodiscover Basic
 
 * Indexing Time: `N/A`
-* "Project 2400" results: `7`
-* "Craigslist" results: `6`
-* "Kitty" results: `10`
+* "Project 2400" results: `34`
+* "Craigslist" results: `12`
+* "Kitty" results: `95`
 
 ### EnCase
 
