@@ -31,11 +31,11 @@
 
 `EnCase` search results for `project2400`
 
-<img src=>
+<img src= ENCPRJ2400Search.PNG>
 
 `Encase` search results for `kitty`
 
-<img src=>
+<img src= ENCKittySearch.PNG>
 
 `EnCase` email view
 
