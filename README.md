@@ -24,4 +24,10 @@ Disc image used: Chapter 5 "InCh05.img"
 
 Subtopic: Enhanced Indexing, comparison with OSForensics and Prodiscover basic
 
+[Indexing time comparison](https://github.com/GabrielSolomonHolland/EnCase-Digital-Forensics-Presentation-44386/blob/main/GSH%20-%20Indexing%20Comparison.md)
+
+[Photo comparison of apps](https://github.com/GabrielSolomonHolland/EnCase-Digital-Forensics-Presentation-44386/blob/main/GSH%20-%20Photo%20comparison.md)
+
+[Photo walkthrough of EnCase](https://github.com/GabrielSolomonHolland/EnCase-Digital-Forensics-Presentation-44386/blob/main/GSH%20-%20EnCase%20view.md)
+
 Disc image used: https://drive.google.com/file/d/1Fceuz4bA8Y7iZKdCxnsJnZEZ_WQbxBRO/view?usp=sharing
