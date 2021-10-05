@@ -21,6 +21,10 @@
 * "Craigslist" results: `1`
 * "Kitty" results: `132 hits, 21 items`
 
+Proof of index time:
+
+<img src = ENCIndexTime.PNG>
+
 
 
 Image file used: https://drive.google.com/file/d/1Fceuz4bA8Y7iZKdCxnsJnZEZ_WQbxBRO/view?usp=sharing
