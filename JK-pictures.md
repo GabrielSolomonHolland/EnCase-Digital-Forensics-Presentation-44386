@@ -2,8 +2,8 @@
 
 Adding folders to `suspicious-drive`
 
-<img src = JK-setup.PNG>
+<img src = JK-setup.png>
 
 The `kitty` pictures
 
-<img src = JK-setup-2.PNG>
+<img src = JK-setup-2.png>
