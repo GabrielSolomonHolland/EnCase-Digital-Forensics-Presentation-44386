@@ -13,6 +13,7 @@ USB Drive Image used: https://drive.google.com/file/d/1D_sCnpcyK8Z-pMTIbalTfb42T
 ## Jacob Kapfer: https://github.com/jkapfer
 
 Subtopic: Volume Shadow Copy
+
 [Setup](https://github.com/GabrielSolomonHolland/EnCase-Digital-Forensics-Presentation-44386/blob/main/JK-pictures.md)
 
 ## Matthew McArthur: https://github.com/Mjmcarthur0917
