@@ -10,6 +10,8 @@ Subtopic: Encryption/Decryption support
 
 USB Drive Image used: https://drive.google.com/file/d/1D_sCnpcyK8Z-pMTIbalTfb42TY5GDlp6/view?usp=sharing
 
+User manual used to attempt to find decryption capabilities: http://encase-docs.opentext.com/documentation/encase/forensic/8.07/Content/Resources/External%20Files/EnCase%20Forensic%20v8.07%20User%20Guide.pdf
+
 ## Jacob Kapfer: https://github.com/jkapfer
 
 Subtopic: Volume Shadow Copy
